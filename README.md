@@ -7,7 +7,7 @@ To get started with the ViTaccidentDetection project, follow these steps:
 
 ### 1. Create a Conda Environment
 
-First, create a conda environment using the provided `environment.yaml` file:
+First, create a conda environment using the provided `environment.yml` file:
 
 ```bash
 conda env create -f environment.yaml
