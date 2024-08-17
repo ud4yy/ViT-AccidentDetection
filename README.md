@@ -1,5 +1,5 @@
 
-# ViTAccidentDetection
+# ViTaccidentDetection
 
 ## Project Setup
 
@@ -48,12 +48,24 @@ python run.py 'filepath'
 
 Replace `'filepath'` with the path to the video file you want to analyze.
 
----
-
 ## Project Flowchart
-<center>
-  <img src="https://drive.google.com/uc?id=1rwKqou3WE0tmrKBsCWzuV7eI2UUMRcwM&export=view" alt="Project Flowchart" width="600"/>
 
-</center>
+Below is the flowchart of the ViTaccidentDetection project:
 
+<img src="https://drive.google.com/uc?id=1rwKqou3WE0tmrKBsCWzuV7eI2UUMRcwM&export=view" alt="Project Flowchart" width="600"/>
 
+## Processing Flow
+
+This image shows the processing flow of the project:
+
+<img src="https://drive.google.com/uc?id=1h9Uwbql1RZrZF2fi3ZgXf4GBz57UToCk&export=view" alt="Processing Flow" width="600"/>
+
+## Results
+
+The following image presents the results of our experiments, including False Alarm Rate (FAR) and Detection Rate (DAR):
+
+<img src="https://drive.google.com/uc?id=19uxbV3ml92DXTb_NwARbp8zvTpBV48pY&export=view" alt="Results with FAR and DAR" width="600"/>
+
+## Learn More
+
+If you would like to know more about our project, you can read our paper [here](https://dx.doi.org/10.21203/rs.3.rs-3903862/v1).
