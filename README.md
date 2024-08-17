@@ -10,7 +10,7 @@ To get started with the ViTaccidentDetection project, follow these steps:
 First, create a conda environment using the provided `environment.yml` file:
 
 ```bash
-conda env create -f environment.yaml
+conda env create -f environment.yml
 ```
 
 ### 2. Download Model Weights
