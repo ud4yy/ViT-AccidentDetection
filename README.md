@@ -50,3 +50,8 @@ Replace `'filepath'` with the path to the video file you want to analyze.
 
 ---
 
+## Project Flowchart
+
+<img src="https://drive.google.com/uc?id=1rwKqou3WE0tmrKBsCWzuV7eI2UUMRcwM&export=view" alt="Project Flowchart" width="600"/>
+
+
